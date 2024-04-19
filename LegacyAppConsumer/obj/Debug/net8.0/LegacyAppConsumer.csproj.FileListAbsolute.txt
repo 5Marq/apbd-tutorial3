@@ -17,3 +17,12 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyAppConsumer/obj/Debug/net8.0/LegacyAppConsumer.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyAppConsumer/obj/Debug/net8.0/LegacyAppConsumer.genruntimeconfig.cache
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyAppConsumer/obj/Debug/net8.0/ref/LegacyAppConsumer.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.csproj.AssemblyReference.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.GeneratedMSBuildEditorConfig.editorconfig
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.AssemblyInfoInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.AssemblyInfo.cs
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.csproj.CoreCompileInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.sourcelink.json
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\refint\LegacyAppConsumer.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyAppConsumer\obj\Debug\net8.0\LegacyAppConsumer.pdb

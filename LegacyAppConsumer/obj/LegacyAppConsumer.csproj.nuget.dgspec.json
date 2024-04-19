@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
+    "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
+    "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyAppConsumer\\LegacyAppConsumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "projectUniqueName": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
         "projectName": "LegacyAppConsumer",
-        "projectPath": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+        "projectPath": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
         "packagesPath": "C:\\Users\\takyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyAppConsumer\\obj\\",
+        "outputPath": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyAppConsumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj": {
-                "projectPath": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj"
+              "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\LegacyApp.csproj": {
+                "projectPath": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\LegacyApp.csproj"
               }
             }
           }
@@ -57,18 +57,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\takyt\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj": {
+    "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\LegacyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj",
+        "projectUniqueName": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\LegacyApp.csproj",
         "projectName": "LegacyApp",
-        "projectPath": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\LegacyApp.csproj",
+        "projectPath": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\LegacyApp.csproj",
         "packagesPath": "C:\\Users\\takyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takyt\\Desktop\\zadanie\\LegacyApp\\obj\\",
+        "outputPath": "R:\\999 Cloud\\Mój dysk\\School PL\\APDB\\tutorial-3\\apbd-tutorial3\\LegacyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\takyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -110,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\takyt\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

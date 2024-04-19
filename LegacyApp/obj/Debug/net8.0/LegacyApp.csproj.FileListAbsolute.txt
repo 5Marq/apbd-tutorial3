@@ -10,3 +10,15 @@
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
 /Users/pgago/Projects/PJATK/classes-materials/APBD/lecture_3/zadanie/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.sourcelink.json
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+R:\999 Cloud\Mój dysk\School PL\APDB\tutorial-3\apbd-tutorial3\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
