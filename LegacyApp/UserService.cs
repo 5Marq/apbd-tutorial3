@@ -11,11 +11,8 @@ namespace LegacyApp
                 return false;
             }
 
-            var client = GetClient(clientId);
-            if (client == null)
-            {
-                return false;
-            }
+            var clientRepository = new ClientRepository();
+            var client = clientRepository.GetById(clientId);
 
             var user = CreateUser(client, firstName, lastName, email, dateOfBirth);
 
@@ -50,12 +47,6 @@ namespace LegacyApp
             }
 
             return age >= 21;
-        }
-
-        private Client GetClient(int clientId)
-        {
-            var clientRepository = new ClientRepository();
-            return clientRepository.GetById(clientId);
         }
 
         private User CreateUser(Client client, string firstName, string lastName, string email, DateTime dateOfBirth)
