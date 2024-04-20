@@ -4,15 +4,29 @@ namespace LegacyApp
 {
     public class UserService
     {
+        private ClientRepository _clientRepository;
+        private UserCreditService _userCreditService;
+        
+        public UserService(ClientRepository clientRepository, UserCreditService userCreditService)
+        {
+            _clientRepository = clientRepository;
+            _userCreditService = userCreditService;
+        }
+        
+        public UserService() //pusty konsruktor dla testów
+        {
+            _clientRepository = new ClientRepository();
+            _userCreditService = new UserCreditService();
+        }
+       
         public bool AddUser(string firstName, string lastName, string email, DateTime dateOfBirth, int clientId) //cała logika w jednym miejscu z wywołaniem zewnętrznych metod
         {
             if (!IsValidName(firstName, lastName) || !IsValidEmail(email) || !IsAdult(dateOfBirth))
             {
                 return false;
             }
-
-            var clientRepository = new ClientRepository();
-            var client = clientRepository.GetById(clientId);
+            
+            var client = _clientRepository.GetById(clientId);
 
             var user = CreateUser(client, firstName, lastName, email, dateOfBirth);
 
@@ -64,8 +78,6 @@ namespace LegacyApp
 
         private void SetCreditLimit(User user, Client client)
         {
-            using (var userCreditService = new UserCreditService())
-            {
                 if (client.Type == "VeryImportantClient")
                 {
                     user.HasCreditLimit = false;
@@ -73,7 +85,7 @@ namespace LegacyApp
                 else
                 {
                     user.HasCreditLimit = true;
-                    int creditLimit = userCreditService.GetCreditLimit(user.LastName, user.DateOfBirth);
+                    int creditLimit = _userCreditService.GetCreditLimit(user.LastName, user.DateOfBirth);
                     if (client.Type == "ImportantClient")
                     {
                         creditLimit *= 2;
@@ -81,7 +93,6 @@ namespace LegacyApp
 
                     user.CreditLimit = creditLimit;
                 }
-            }
         }
 
         private void SaveUser(User user)

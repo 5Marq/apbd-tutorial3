@@ -51,4 +51,20 @@ public class UserServiceTests
         //Assert
         Assert.Equal(false, result);
     }
+    
+    [Fact]
+    public void AddUser_Should_Return_True_When_Client()
+    {
+        //Arrange
+        string firstName = "John";
+        string lastName = "Doe";
+        DateTime dateOfBirth = new DateTime(1990, 1, 1);
+        string email = "doe@gmail.pl";
+        var userService = new UserService();
+        int clientId = 4;
+        //Act
+        bool result = userService.AddUser(firstName, lastName, email, dateOfBirth, clientId);
+        //Assert
+        Assert.Equal(true, result);
+    }
 }
